@@ -1,0 +1,4 @@
+Here is the result: Hi there! this is first text file, Hi there! this is second text file
+We have appended to the file 
+This is some more content appended
+This is some more content appended

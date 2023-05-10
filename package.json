@@ -1,0 +1,16 @@
+{
+  "name": "prashin-nodejs",
+  "version": "1.0.0",
+  "description": "this is a node js and express js 8 hours course FCC",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
